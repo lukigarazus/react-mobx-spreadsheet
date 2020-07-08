@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.cell {
+  height: 100%;
+  width: 100%;
+  background: white;
+  overflow: hidden;
+}
+
+.cell-core {
+  background: grey;
+}
+
+.cell input {
+  width: 100%;
+  outline: none;
+  border: none;
+  height: 100%;
+}
